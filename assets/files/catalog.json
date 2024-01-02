@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 15 Pro",
+            "desc": "The ultimate iPhone",
+            "price": 1199,
+            "color": "#33505a",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-compare-iphone-15-pro-202309?wid=384&hei=512&fmt=jpeg&qlt=90&.v=1692827834790"
+        },
+        {
+            "id": 2,
+            "name": "Pixel 7 Pro",
+            "desc": "Google Pixel 7 pro",
+            "price": 699,
+            "color": "#00ac51",
+            "image": "https://lh3.googleusercontent.com/SjFYOoOjF40cw-fUdKddJ2RYv9MouDWx57Lnzmu3P3WYYky6x8oYT_cG78DzxyrVfN1Xt1h4Qg1JNUCrS8mfU3nqYzzQhpj8EA=w931"
+        },
+        {
+            "id": 3,
+            "name": "M1 Macbook Air",
+            "desc": "Apple Macbook air with apple silicon",
+            "price": 1099,
+            "color": "#e0bfae",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOMstwtmLnjFb3NHiDJ_kcQnueNVH-rv_3ps96HZmXlFumKWaiBqq_L4Uoyx3iFiNTrXNEbyB&usqp=CAc"
+        },
+        {
+            "id": 4,
+            "name": "Playstation 5",
+            "desc": "Sony Playstation 5th generation",
+            "price": 499,
+            "color": "#544ee4",
+            "image": "https://gmedia.playstation.com/is/image/SIEPDC/playstation-5-with-dualsense-front-product-shot-01-ps5-en-30jul20?$1600px--t$"
+        },
+        {
+            "id": 5,
+            "name": "Airpods Pro",
+            "desc": "Apple Aipods Pro 2nd generation",
+            "price": 200,
+            "color": "#e3e4e9",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MTJV3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1694014871985"
+        },
+        {
+            "id": 6,
+            "name": "iPad Pro",
+            "desc": "The ultimate iPad experience with the most advanced technology",
+            "price": 1099,
+            "color": "#f73984",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-comp-pro-202210?wid=338&hei=386&fmt=jpeg&qlt=90&.v=1664411153112"
+        },
+        {
+            "id": 7,
+            "name": "Galaxy S23 Ultra",
+            "desc": "Samsung Galaxy S23 Ultra 2023 edition",
+            "price": 1299,
+            "color": "#1c1c1c",
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/q/q/w/galaxy-s23-ultra-5g-smartphone-sm-s918bzkcins-samsung-original-imagqjczezmgquhb.jpeg?q=70"
+        },
+        {
+            "id": 8,
+            "name": "Galaxy S23",
+            "desc": "Samsung Galaxy S23 2023 edition",
+            "price": 899,
+            "color": "#7c95eb",
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/t/7/r/-original-imagmg6gyxbn4md9.jpeg?q=70"
+        }
+    ]
+}
